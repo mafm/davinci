@@ -1,3 +1,5 @@
+# [(Forked only to grab a copy of the doc on F_omega)](doc/F-omega.txt)
+
 Cacaoscript
 =======
 
